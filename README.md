@@ -1,2 +1,2 @@
-# ThirdBorty __**UNFINISHED**__
+# Thirdborty __**UNFINISHED**__
 A Flipper Zero inspired 3rd party BroadLink application built with Kivy.
